@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.6.3",
     "Babel": "0.0.1",
     "browser-sync": "^2.26.7",
-    "browserslist": "^4.7.1",
+    "browserslist": "^4.16.5",
     "csso": "^3.5.1",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
