@@ -12,7 +12,7 @@
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
     "Babel": "0.0.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "browserslist": "^4.7.1",
     "csso": "^3.5.1",
     "gulp": "^4.0.2",
